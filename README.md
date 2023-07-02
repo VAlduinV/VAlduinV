@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="img/wolf.png" alt="wolf">
 </div>
 
-💻Python, C++, Full-Stack Developer🖥
+💻Python, C++, Full-Stack Developer and CyberSpecialist🖥
 -------------------------------------
 
 I have a quick learning ability and possess excellent analytical skills, which enable me to grasp new concepts swiftly. I thoroughly enjoy working in a collaborative environment and believe in the power of teamwork to achieve remarkable results. With a strong understanding of the software development process and lifecycle, coupled with my proficiency in Python programming language and technologies, I believe I would be a valuable asset to your team. In terms of technical skills, I have a solid understanding of Object-Oriented Programming (OOP) and experience in web development. I have hands-on experience working with Django and Flask frameworks. Additionally, I have a good understanding of SQL databases such as SQLite and PostgreSQL, as well as familiarity with noSQL databases like Redis and MongoDB.
