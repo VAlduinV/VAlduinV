@@ -16,6 +16,8 @@ I have a quick learning ability and possess excellent analytical skills, which e
 
 <a href="https://www.github.com/VAlduinV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=VAlduinV&color=red&style=flat&label=Profile+Views)](https://github.com/VAlduinV)
+
 
 ## Skills
 
@@ -52,6 +54,9 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
 
 ### Software
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+
+### DevOps
+<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 
 ### Libraries
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
