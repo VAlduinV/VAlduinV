@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
 [![Profile Views](https://komarev.com/ghpvc/?username=VAlduinV&color=red&style=flat&label=Profile+Views)](https://github.com/VAlduinV)
 
 
-## Skills
+## Skills 🔥
 <table><tr><td valign="top" width="33%">
 
 ### CORE
@@ -60,7 +60,7 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
 
 <td valign="top" width="33%">
 
-### 💻 WEB3
+### WEB3
 <div align="center"> 
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </div>
