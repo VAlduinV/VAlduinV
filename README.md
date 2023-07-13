@@ -89,6 +89,7 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
 ### DevOps
 <div align="center"> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 </td>
 
@@ -100,7 +101,8 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a> 
 </div>
 </td>
 
@@ -118,6 +120,7 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
 <div align="center"> 
 <a href="https://www.github.com/VAlduinV" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="git_hub" /></a> 
 <a href="https://www.linkedin.com/in/victor-ivanov-9409111b4" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedin" /></a>
+<a href="https://www.hackerrank.com/prime72w" target="blank"><img style="margin: 10px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prime72w" height="32" width="32" /></a>
 </div>
 </td></tr></table> 
 
