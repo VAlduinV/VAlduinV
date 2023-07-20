@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻Python, C++, Full-Stack Developer and CyberSpecialist🖥
 -------------------------------------
 
-I have a quick learning ability and possess excellent analytical skills, which enable me to grasp new concepts swiftly. I thoroughly enjoy working in a collaborative environment and believe in the power of teamwork to achieve remarkable results. With a strong understanding of the software development process and lifecycle, coupled with my proficiency in Python programming language and technologies, I believe I would be a valuable asset to your team. In terms of technical skills, I have a solid understanding of Object-Oriented Programming (OOP) and experience in web development. I have hands-on experience working with Django and Flask frameworks. Additionally, I have a good understanding of SQL databases such as SQLite and PostgreSQL, as well as familiarity with noSQL databases like Redis and MongoDB.
+Experienced Python Engineer with a comprehensive understanding of high-level programming languages and mathematical modeling. Skilled in Python, C++, JavaScript, Matlab/Simulink with a deep knowledge of machine learning libraries such as TensorFlow, Keras, and Sci-kit Learn. Proficient in data handling libraries such as Pandas, NumPy, and visualization tools like Matplotlib. Knowledgeable in backend development using Django and Flask with database management skills using SQL and noSQL databases. Looking to leverage my technical skills to develop scalable solutions in a challenging role.
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [prime72w@gmail.com](mailto:prime72w@gmail.com)
