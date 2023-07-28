@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="img/wolf.png" alt="wolf">
 </div>
 
-💻Python, C++, Full-Stack Developer and CyberSpecialist🖥
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&width=1050&height=35&lines=%F0%9F%92%BBPython%2C+C%2B%2B%2C+Full-Stack+Developer+and+CyberSpecialist%F0%9F%96%A5)](https://git.io/typing-svg)
 -------------------------------------
 
 Experienced Python Engineer with a comprehensive understanding of high-level programming languages and mathematical modeling. Skilled in Python, C++, JavaScript, Matlab/Simulink with a deep knowledge of machine learning libraries such as TensorFlow, Keras, and Sci-kit Learn. Proficient in data handling libraries such as Pandas, NumPy, and visualization tools like Matplotlib. Knowledgeable in backend development using Django and Flask with database management skills using SQL and noSQL databases. Looking to leverage my technical skills to develop scalable solutions in a challenging role.
