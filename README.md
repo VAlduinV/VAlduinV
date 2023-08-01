@@ -18,6 +18,11 @@ Experienced Python Engineer with a comprehensive understanding of high-level pro
 src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 [![Profile Views](https://komarev.com/ghpvc/?username=VAlduinV&color=red&style=flat&label=Profile+Views)](https://github.com/VAlduinV)
 
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="trophy">
+  </a>
+</p>
 
 ## Skills 🔥
 <table><tr><td valign="top" width="33%">
@@ -151,11 +156,7 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="trophy">
-  </a>
-</p>
+
 
 ### Support Me
 
