@@ -155,8 +155,15 @@ src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-
   </tr>
 </table>
 
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/VAlduinV/">
+        <img align="center" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=VAlduinV&bg_color=000000&color=ff1414&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics&hide_border=true&hide_title=true&line_width=3&area_alpha=0.7&area_color=ff1414&point_radius=5" alt="VAlduinV" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/prime72we"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
