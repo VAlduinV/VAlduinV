@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&repeat=false&width=1050&height=50&lines=Hi!+My+name+is+%F0%9F%90%BAVictor%2FAlduin%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
-=========================================================================================================================================
+
+<div align="center">
+  
+| [![GitHub Followers](https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-badge&color=10b981&labelColor=000000)](https://www.github.com/VAlduinV) | [![Profile Views](https://komarev.com/ghpvc/?username=VAlduinV&color=red&style=flat&label=Profile+Views)](https://github.com/VAlduinV) |
+|---|---|
+
+</div>
 
 <div align="center">
   <img src="img/wolf.png" alt="wolf">
@@ -12,10 +18,6 @@
 * ✉️  You can contact me at [prime72w@gmail.com](mailto:prime72w@gmail.com)
 * 🚀  At the moment I work in a company [GOIT](https://m.goit.global/ua/new/?utm_source=google&utm_medium=cpc&utm_campaign=19743486479|{campaign_name}&utm_term=154975695588||goit&utm_content=649512770761&gad=1&gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mO02s_sp187bD4UJ62a7a2Ns-hm37bsuFBJ1VqwyGGbbC3FLt3gzoaArtZEALw_wcB)
 * 🔥 At the moment I work in a company [NauticAi](https://www.nauticai.co/)
-
-<a href="https://www.github.com/VAlduinV" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/VAlduinV?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
-[![Profile Views](https://komarev.com/ghpvc/?username=VAlduinV&color=red&style=flat&label=Profile+Views)](https://github.com/VAlduinV)
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai">
