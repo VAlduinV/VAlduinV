@@ -8,8 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&width=1050&height=35&lines=%F0%9F%92%BBPython%2C+C%2B%2B%2C+Full-Stack+Developer+and+CyberSpecialist%F0%9F%96%A5)](https://git.io/typing-svg)
 -------------------------------------
 
-Experienced Python Engineer with a comprehensive understanding of high-level programming languages and mathematical modeling. Skilled in Python, C++, JavaScript, Matlab/Simulink with a deep knowledge of machine learning libraries such as TensorFlow, Keras, and Sci-kit Learn. Proficient in data handling libraries such as Pandas, NumPy, and visualization tools like Matplotlib. Knowledgeable in backend development using Django and Flask with database management skills using SQL and noSQL databases. Looking to leverage my technical skills to develop scalable solutions in a challenging role.
-
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [prime72w@gmail.com](mailto:prime72w@gmail.com)
 * 🚀  At the moment I work in a company [GOIT](https://m.goit.global/ua/new/?utm_source=google&utm_medium=cpc&utm_campaign=19743486479|{campaign_name}&utm_term=154975695588||goit&utm_content=649512770761&gad=1&gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mO02s_sp187bD4UJ62a7a2Ns-hm37bsuFBJ1VqwyGGbbC3FLt3gzoaArtZEALw_wcB)
