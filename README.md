@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=random&height=120&section=header&fontSize=100" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&repeat=false&width=1050&height=50&lines=Hi!+My+name+is+%F0%9F%90%BAVictor%2FAlduin%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
