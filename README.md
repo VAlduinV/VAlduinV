@@ -18,7 +18,7 @@
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [prime72w@gmail.com](mailto:prime72w@gmail.com)
-* 🚀  At the moment I work in a company [SkyLab UA]([https://www.huawei.com/ua/](https://skylab-ua.com/)
+* 🚀  At the moment I work in a company [SkyLab UA](https://skylab-ua.com/)
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai">
