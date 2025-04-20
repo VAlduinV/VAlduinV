@@ -16,10 +16,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&width=1050&height=35&lines=%F0%9F%92%BBPython%2C+C%2B%2B%2C+Full-Stack+Developer+and+CyberSpecialist%F0%9F%96%A5)](https://git.io/typing-svg)
 -------------------------------------
 
-* 🌍  I'm based in Kyiv
-* ✉️  You can contact me at [prime72w@gmail.com](mailto:prime72w@gmail.com)
-* 🚀  At the moment I work in a company [SkyLab UA](https://skylab-ua.com/)
-
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="trophy">
